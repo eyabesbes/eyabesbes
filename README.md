@@ -1,6 +1,6 @@
-## Hi there 👋
 
-### Hi there 👋
+
+## Hi there 👋
 
 I'm Eya, a data science enthusiast with expertise in analytics, machine learning, and statistics. I'm actively
 seeking opportunities to apply my skills, contribute to ongoing projects, and continue my professional
