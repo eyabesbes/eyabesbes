@@ -74,7 +74,7 @@
     <img src="https://hadoop.apache.org/elephant.png" width="40" height="40" alt="Hadoop" />
 
     <!-- Spark (not in Devicon, using external source) -->
-    <img src="https://spark.apache.org/images/spark-logo-rev.svg" width="40" height="40" alt="Spark" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/langfr-120px-Apache_Spark_logo.svg.png" width="40" height="40" alt="Spark" />
 
     <!-- Cassandra (not in Devicon, using external source) -->
     <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/apache-cassandra/apache-cassandra.png" width="40" height="40" alt="Cassandra" />
