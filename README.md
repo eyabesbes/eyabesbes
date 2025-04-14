@@ -1,10 +1,8 @@
 
 
-## Hi there 👋
+<h1 style="text-align: center;">Hi there, I'm Eya 👋</h1>
 
-I'm Eya, a data science enthusiast with expertise in analytics, machine learning, and statistics. I'm actively
-seeking opportunities to apply my skills, contribute to ongoing projects, and continue my professional
-development in the field.
+
 
 # 🌐 Contact me via:
 [![Email](https://img.shields.io/badge/Email-%230078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:eya.besbes@etudiant-fst.utm.tn)
