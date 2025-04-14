@@ -46,9 +46,6 @@
     <!-- OpenCV -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV" />
 
-    !-- BeautifulSoup (custom icon, since not on Devicon) -->
-    <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-beautiful-data-science-flatart-icons-outline-flatarticons.png" width="40" height="40" alt="BeautifulSoup" />
-
     <!-- Matplotlib -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40" alt="Matplotlib" />
     <!-- PyTorch -->
