@@ -4,7 +4,7 @@
 - 💼 Currently working @ **University of Abu Dhabi**, UAE.
 - 🎓 **Data Science Engineer**, Faculty of Science of Tunis, **Univeristy of Tunis El Manar**.
 - 🔬 Working on various **AI** projects
-- 🌱 Passionate about **research ** and currently working on a research project
+- 🌱 Passionate about **research** and currently working on a research project
 - 💡 Dedicated to leveraging the power of Artificial Intelligence to address complex real-world challenges and deliver impactful solutions. 
 
 
@@ -71,7 +71,7 @@
     <img src="https://www.oracle.com/a/ocom/img/pl-sql.svg" width="40" height="40" alt="PL/SQL" />
 
     <!-- Hadoop (not in Devicon, using external source) -->
-    <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/hadoop/hadoop.png" width="40" height="40" alt="Hadoop" />
+    <img src="https://hadoop.apache.org/hadoop-logo.jpg" width="40" height="40" alt="Hadoop" />
 
     <!-- Spark (not in Devicon, using external source) -->
     <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/apache-spark/apache-spark.png" width="40" height="40" alt="Spark" />
