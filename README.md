@@ -67,17 +67,18 @@
 
     <!-- MongoDB -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />    
-    <!-- PL/SQL -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/plsql-original.svg" width="40" height="40" alt="PLSQL" />
+    <!-- PL/SQL (no official Devicon icon, using a database placeholder) -->
+<img src="https://img.icons8.com/ios-filled/50/000000/database.png" width="40" height="40" alt="PL/SQL" />
 
-     <!-- Hadoop -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/hadoop-original.svg" width="40" height="40" alt="Hadoop" />
+<!-- Hadoop (not in Devicon, using external source) -->
+<img src="https://raw.githubusercontent.com/valohai/ml-logos/master/hadoop/hadoop.png" width="40" height="40" alt="Hadoop" />
 
-    <!-- Spark -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/spark-original.svg" width="40" height="40" alt="Spark" />
-    
-    <!-- Cassandra -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/cassandra-original.svg" width="40" height="40" alt="Cassandra" />
+<!-- Spark (not in Devicon, using external source) -->
+<img src="https://raw.githubusercontent.com/valohai/ml-logos/master/apache-spark/apache-spark.png" width="40" height="40" alt="Spark" />
+
+<!-- Cassandra (not in Devicon, using external source) -->
+<img src="https://raw.githubusercontent.com/valohai/ml-logos/master/apache-cassandra/apache-cassandra.png" width="40" height="40" alt="Cassandra" />
+
 
     </p>
 
