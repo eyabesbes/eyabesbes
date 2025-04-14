@@ -68,7 +68,7 @@
     <!-- MongoDB -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />    
     <!-- PL/SQL (no official Devicon icon, using a database placeholder) -->
-    <img src="[https://img.icons8.com/ios-filled/50/000000/database.png](https://www.oracle.com/a/ocom/img/pl-sql.svg)" width="40" height="40" alt="PL/SQL" />
+    <img src="https://www.oracle.com/a/ocom/img/pl-sql.svg" width="40" height="40" alt="PL/SQL" />
 
     <!-- Hadoop (not in Devicon, using external source) -->
     <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/hadoop/hadoop.png" width="40" height="40" alt="Hadoop" />
@@ -77,9 +77,7 @@
     <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/apache-spark/apache-spark.png" width="40" height="40" alt="Spark" />
 
     <!-- Cassandra (not in Devicon, using external source) -->
-<img src="https://raw.githubusercontent.com/valohai/ml-logos/master/apache-cassandra/apache-cassandra.png" width="40" height="40" alt="Cassandra" />
-
-
+    <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/apache-cassandra/apache-cassandra.png" width="40" height="40" alt="Cassandra" />
     </p>
 
 - **Cloud And Devops:**
