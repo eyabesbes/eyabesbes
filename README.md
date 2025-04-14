@@ -87,7 +87,8 @@
 
     </p>
 
-- **Cloud And Devops:**:  
+- **Cloud And Devops:**
+
 <p>
 
     <!-- Docker -->
