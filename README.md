@@ -70,8 +70,8 @@
     <!-- PL/SQL (no official Devicon icon, using a database placeholder) -->
     <img src="https://www.oracle.com/a/ocom/img/pl-sql.svg" width="40" height="40" alt="PL/SQL" />
 
-    <!-- Hadoop (not in Devicon, using external source) -->
-    <img src="https://hadoop.apache.org/hadoop-logo.jpg" width="40" height="40" alt="Hadoop" />
+    <!-- Hadoop  -->
+    <img src="https://hadoop.apache.org/elephant.png" width="40" height="40" alt="Hadoop" />
 
     <!-- Spark (not in Devicon, using external source) -->
     <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/apache-spark/apache-spark.png" width="40" height="40" alt="Spark" />
