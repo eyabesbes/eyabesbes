@@ -77,7 +77,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/langfr-120px-Apache_Spark_logo.svg.png" width="40" height="40" alt="Spark" />
 
     <!-- Cassandra (not in Devicon, using external source) -->
-    <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/apache-cassandra/apache-cassandra.png" width="40" height="40" alt="Cassandra" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/langfr-120px-Cassandra_logo.svg.png" width="40" height="40" alt="Cassandra" />
     </p>
 
 - **Cloud And Devops:**
