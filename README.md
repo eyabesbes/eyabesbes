@@ -16,10 +16,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eya-besbes/)
 
 
-# 💻 Technical Skills:
 
-<p align="left">
-- **Languages**: 
+- **Languages**:
+  <p>
   <!-- C -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
 
@@ -46,7 +45,9 @@
 
   <!-- R -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" alt="R" />
-  - **Libraries/Frameworks**:  
+  </p>
+  - **Libraries/Frameworks**: 
+  <p>
   <!-- PyTorch -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
 
