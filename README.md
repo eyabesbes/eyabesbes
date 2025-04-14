@@ -44,17 +44,15 @@
     <!-- Pandas -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
     <!-- OpenCV -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/opencv-original.svg" width="40" height="40" alt="OpenCV" />
-     <!-- BeautifulSoup -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/beutifulsoup-original.svg" width="40" height="40" alt="BeautifulSoup" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV" />
 
-    
-  
+    <!-- BeautifulSoup (custom placeholder since no official icon exists) -->
+    <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-beautiful-data-science-flatart-icons-outline-flatarticons.png" width="40" height="40" alt="BeautifulSoup" />
+
     <!-- Matplotlib -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40" alt="Matplotlib" />
     <!-- PyTorch -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
-
     <!-- TensorFlow -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
     </p>
