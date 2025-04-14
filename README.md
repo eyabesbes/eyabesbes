@@ -1,5 +1,14 @@
 <h1 align="center">Hi there, I'm Eya! 👋</h1>
 
+# About Me:
+- 💼 Currently working @ University of Abu Dhabi, UAE.
+- 🎓 Data Science Engineer, Faculty of Science of Tunis, Univeristy of Tunis El Manar.
+- 🔬 Working on various AI projects
+- 🌱 Passionate about research and currently working on a research project
+- 💡 Dedicated to leveraging the power of Artificial Intelligence to address complex real-world challenges and deliver impactful solutions. 
+
+
+
 
 
 # 🌐 Contact me via:
