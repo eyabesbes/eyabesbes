@@ -89,7 +89,7 @@
 
 - **Cloud And Devops:**
 
-<p>
+  <p>
 
     <!-- Docker -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
@@ -102,11 +102,11 @@
 
     <!-- GitHub -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-</p>
+  </p>
 
 - **Other Tools:**:
   <p>  
-<!-- Jupyter -->
+  <!-- Jupyter -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" />
 
   <!-- Google Colab -->
