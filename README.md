@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Eya! 👋</h1>
 
-# About Me:
+#👩 About Me:
 - 💼 Currently working @ University of Abu Dhabi, UAE.
 - 🎓 Data Science Engineer, Faculty of Science of Tunis, Univeristy of Tunis El Manar.
 - 🔬 Working on various AI projects
@@ -19,7 +19,7 @@
 # 💻 Technical Skills:
 
 <p align="left">
-
+- **Languages**: 
   <!-- C -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
 
@@ -46,7 +46,7 @@
 
   <!-- R -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" alt="R" />
-
+  - **Libraries/Frameworks**:  
   <!-- PyTorch -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
 
