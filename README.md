@@ -17,7 +17,7 @@
 
 # 🛠️ 💻 Technical Skills:
 
-- **Languages**:
+- **Programming Languages**:
   <p>
     <!-- C -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
@@ -36,42 +36,75 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" alt="R" />
   </p>
   
-- **Libraries/Frameworks**: 
+- **Libraries/Frameworks:**: 
   <p>
      <!-- NumPy -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" />
   
-  <!-- Pandas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
+    <!-- Pandas -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
+    <!-- OpenCV -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/opencv-original.svg" width="40" height="40" alt="OpenCV" />
+     <!-- BeautifulSoup -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/beutifulsoup-original.svg" width="40" height="40" alt="BeautifulSoup" />
+
+    
   
-  <!-- Matplotlib -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40" alt="Matplotlib" />
-  <!-- PyTorch -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
+    <!-- Matplotlib -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40" alt="Matplotlib" />
+    <!-- PyTorch -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
 
-  <!-- TensorFlow -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
+    <!-- TensorFlow -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
+    </p>
+    
 
-  <!-- Oracle -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle" />
 
-  <!-- MySQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+ - **Databases and Big Data:**:    
 
-  <!-- MongoDB -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+    <p>
+    <!-- Oracle -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle" />
 
-  <!-- Docker -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+    <!-- MySQL -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
 
-  <!-- AWS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" />
+    <!-- MongoDB -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />    
+    <!-- PL/SQL -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/plsql-original.svg" width="40" height="40" alt="PLSQL" />
 
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+     <!-- Hadoop -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/hadoop-original.svg" width="40" height="40" alt="Hadoop" />
 
-  <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+    <!-- Spark -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/spark-original.svg" width="40" height="40" alt="Spark" />
+
+    
+    <!-- Cassandra -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/cassandra-original.svg" width="40" height="40" alt="Cassandra" />
+
+    </p>
+
+- **Cloud And Devops:**:  
+<p>
+
+    <!-- Docker -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+
+    <!-- AWS -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS" />
+
+    <!-- Git -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+
+    <!-- GitHub -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+</p>
+
+- **Other Tools:**:
+  <p>  
 <!-- Jupyter -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" />
 
