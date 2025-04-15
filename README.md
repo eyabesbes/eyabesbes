@@ -10,7 +10,7 @@
 # 🌐 Contact me via:
 
 <a href="mailto:eya.besbes@etudiant-fst.utm.tn">
-    <img src="![Microsoft_Office_Outlook_(2018–present) svg](https://github.com/user-attachments/assets/28e71180-6eb5-4689-87d7-1b83f8ec3b38)" width="40" height="40" alt="Outlook Email" />
+    <img src="![Microsoft_Office_Outlook_(2018–present)svg](https://github.com/user-attachments/assets/28e71180-6eb5-4689-87d7-1b83f8ec3b38)" width="40" height="40" alt="Outlook Email" />
 </a>
 
 <a href="https://www.linkedin.com/in/eya-besbes/">
