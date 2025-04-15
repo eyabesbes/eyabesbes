@@ -2,7 +2,7 @@
 
 # 👩 About Me:
 - 💼 Currently working @ **University of Abu Dhabi**, UAE.
-- 🎓 **Data Science Engineer Graduate** from the Faculty of Sciences of Tunis, **University of Tunis El Manar**.
+- 🎓 **Data Science Engineer** Graduate from the Faculty of Sciences of Tunis, **University of Tunis El Manar**.
 - 🔬 Working on various **AI** projects.
 - 🌱 Passionate about **research** and currently working on a research project.
 - 💡 Dedicated to leveraging the power of Artificial Intelligence to address complex real-world challenges and deliver impactful solutions. 
