@@ -8,8 +8,13 @@
 - 💡 Dedicated to leveraging the power of Artificial Intelligence to address complex real-world challenges and deliver impactful solutions. 
 
 # 🌐 Contact me via:
-[![Email](https://img.shields.io/badge/Email-%230078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:eya.besbes@etudiant-fst.utm.tn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eya-besbes/)
+<a href="mailto:eya.besbes@etudiant-fst.utm.tn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/outlook/outlook-original.svg" width="40" height="40" alt="Outlook Email" />
+</a>
+
+<a href="https://www.linkedin.com/in/eya-besbes/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
+</a>
 
 # 🛠️ 💻 Technical Skills:
 
