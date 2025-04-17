@@ -85,7 +85,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/langfr-120px-Cassandra_logo.svg.png" width="40" height="40" alt="Cassandra" />
     </p>
 
-- **Cloud And Devops:**
+- **Cloud And DevOps:**
   <p>
     <!-- Docker -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
