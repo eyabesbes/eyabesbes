@@ -112,7 +112,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="40" height="40" alt="macOS" />
   </p>
 
-- **Other Tools:**:
+- **Other Tools:**
   <p>  
     <!-- Weka -->
     <img src="https://images.sftcdn.net/images/t_app-icon-s/p/19f01b02-2ac5-41c5-a8e9-7caa6de36b3b/3785906630/weka-weka.png" width="40" height="40" alt="Weka" />
