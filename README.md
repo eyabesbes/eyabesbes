@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm Eya! 👋</h1>
 
 # 👩🏻‍💻 About Me:
+
 - 💼 Currently working @ **University of Abu Dhabi**, UAE.
 - 👩‍🎓 **Data Science Engineer** Graduate from the Faculty of Sciences of Tunis, **University of Tunis El Manar**.
 - 🔬 Working on various **AI** projects.
@@ -20,6 +21,7 @@
 # 🛠️ 💻 Technical Skills:
 
 - **Programming Languages:**
+
   <p>
     <!-- C -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
@@ -40,7 +42,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" alt="R" />
   </p>
   
-- **Libraries/Frameworks:** 
+- **Libraries/Frameworks:**
+
   <p>
      <!-- NumPy -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" />
@@ -62,7 +65,8 @@
     
     </p>
 
- - **Databases and Big Data:**  
+ - **Databases and Big Data:**
+
     <p>
       <!-- Oracle -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle" />
@@ -86,6 +90,7 @@
     </p>
 
 - **Cloud And DevOps:**
+
   <p>
     <!-- Docker -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
@@ -101,6 +106,7 @@
   </p>
 
 - **Operating Systems:**
+
   <p>
     <!-- Linux -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
@@ -113,6 +119,7 @@
   </p>
 
 - **Other Tools:**
+
   <p>  
     <!-- Weka -->
     <img src="https://images.sftcdn.net/images/t_app-icon-s/p/19f01b02-2ac5-41c5-a8e9-7caa6de36b3b/3785906630/weka-weka.png" width="40" height="40" alt="Weka" />
@@ -131,4 +138,5 @@
   </p>
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=eyabesbes&hide_border=false)![](https://github-readme-stats.vercel.app/api?username=eyabesbes&hide_border=false&include_all_commits=true&count_private=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=eyabesbes&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
