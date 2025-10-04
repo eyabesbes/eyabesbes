@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Eya! 👋</h1>
 
 # 👩🏻‍💻 About Me:
-
+- 📚 Second year Master's student majoring in IoT & Data Analysis @**Tunisia Polytechnic School**, Tunis, Tunisia.
 - 💼 Currently working @ **Abu Dhabi University**, UAE.
 - 👩‍🎓 **Data Science Engineer** Graduate from the Faculty of Sciences of Tunis, **University of Tunis El Manar**.
 - 🔬 Working on various **AI** projects.
